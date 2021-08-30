@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="83d873f4-aa9f-4889-9b02-a9e13410d39b" name="SERVER JAVIER" url="http://localhost:8000">
+        <fileTransfer port="0" mountedRoot="C:\Users\JAVIER\Desktop\Assistant" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
